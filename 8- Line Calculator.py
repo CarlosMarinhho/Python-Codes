@@ -1,0 +1,8 @@
+n1 = int(input('first number: '))
+n2 = int(input('second numero: '))
+print('Soma, {} + {} = {}'.format(n1, n2, n1 + n2))
+print('Subtração, {} - {} = {}'.format(n1, n2, n1 - n2))
+print('multiplicação, {} x {} = {}'.format(n1, n2, n1 * n2))
+print('Divisão, {} / {} = {}'.format(n1, n2, n1 / n2))
+print('Resto da divisão,{} % {} = {}'.format(n1, n2, n1 % n2))
+print('Exponenciação, {} ** {} = {}'.format(n1, n2, n1 ** n2))
